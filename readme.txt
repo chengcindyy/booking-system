@@ -15,4 +15,3 @@ Main functions:
 Used API:
 1. Maps JavaScript API: https://developers.google.com/maps/documentation/javascript/examples/map-geolocation
 2. Geolocation API: https://developers.google.com/maps/documentation/geolocation/overview
-3. API Key: AIzaSyAkpB2qU1yJDv4P2vDR7yS_IZWtOYGE_q8
