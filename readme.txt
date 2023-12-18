@@ -1,6 +1,5 @@
 CSIS3380-001-Final project
 Student name: Cindy Cheng
-Student Id: 300346552
 
 About the project
 This project primarily focuses on a store booking system. Users can book a service by selecting various options, and store owners can view these bookings.
